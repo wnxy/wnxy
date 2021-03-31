@@ -4,7 +4,7 @@
 - 🔭 国内某普通高校研究僧在读
 - 🌱 专注于智能媒体与数据挖掘的相关学习
 - 👯 初级码农修炼中......
-- 📫 [个人博客，欢迎来踩](https://///wnxy.xyz/)
+- 📫 [个人博客，欢迎来踩](https://wn/xy.xyz/)
 - 😄 努力做一个胆大、心细的人！！！
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wnxy)](https://github.com/anuraghazra/github-readme-stats)
